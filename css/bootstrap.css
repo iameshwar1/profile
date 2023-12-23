@@ -346,6 +346,7 @@ img {
 
 .img-responsive {
   display: block;
+  min-height: 100px;
   height: auto;
   max-width: 100%;
 }
